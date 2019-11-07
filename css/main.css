@@ -42,6 +42,11 @@ div {
   text-decoration: none;
 }
 
+.btn-primary:hover {
+  background-color: #333;
+  text-decoration: none;
+}
+
 .btn-subtle:hover {
   background-color: #666;
   text-decoration: none;
@@ -58,10 +63,13 @@ div {
   text-decoration: none;
 }
 
+.btn-small {
+  font-size: .875rem;
+}
+
 .small {
   text-decoration: none;
   display: inline-block;
-  font-size: .875rem;
   padding: .4em .75em .3em;
   border-radius: 8px;
   color: #fff;
@@ -86,6 +94,12 @@ div {
 
 .small:hover {
   text-decoration: none;
+  background-color: #333;
+}
+
+.small-primary:hover {
+  background-color: #333;
+  text-decoration: none;
 }
 
 .small-subtle:hover {
@@ -102,6 +116,10 @@ div {
 .small-warning:hover {
   background-color: #933;
   text-decoration: none;
+}
+
+.btn-big {
+  font-size: 1.5rem;
 }
 
 .big {
@@ -131,6 +149,11 @@ div {
 }
 
 .big:hover {
+  text-decoration: none;
+}
+
+.big-primary:hover {
+  background-color: #333;
   text-decoration: none;
 }
 
