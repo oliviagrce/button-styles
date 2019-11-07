@@ -11,3 +11,141 @@ div {
   padding: .5rem;
   text-align: center;
 }
+
+.btn {
+  text-decoration: none;
+  display: inline-block;
+  font-size: 1.125rem;
+  padding: .4em .75em .3em;
+  border-radius: 8px;
+  color: #fff;
+}
+
+.btn-primary {
+  background-color: #000;
+}
+
+.btn-subtle {
+  background-color: #ccc;
+}
+
+.btn-ghost {
+  border-style: solid;
+  color: #000;
+}
+
+.btn-warning {
+  background-color: #f33;
+}
+
+.btn:hover {
+  text-decoration: none;
+}
+
+.btn-subtle:hover {
+  background-color: #666;
+  text-decoration: none;
+}
+
+.btn-ghost:hover {
+  background-color: #666;
+  text-decoration: none;
+  border-color: #666;
+}
+
+.btn-warning:hover {
+  background-color: #933;
+  text-decoration: none;
+}
+
+.small {
+  text-decoration: none;
+  display: inline-block;
+  font-size: .875rem;
+  padding: .4em .75em .3em;
+  border-radius: 8px;
+  color: #fff;
+}
+
+.small-primary {
+  background-color: #000;
+}
+
+.small-subtle {
+  background-color: #ccc;
+}
+
+.small-ghost {
+  border-style: solid;
+  color: #000;
+}
+
+.small-warning {
+  background-color: #f33;
+}
+
+.small:hover {
+  text-decoration: none;
+}
+
+.small-subtle:hover {
+  background-color: #666;
+  text-decoration: none;
+}
+
+.small-ghost:hover {
+  background-color: #666;
+  text-decoration: none;
+  border-color: #666;
+}
+
+.small-warning:hover {
+  background-color: #933;
+  text-decoration: none;
+}
+
+.big {
+  text-decoration: none;
+  display: inline-block;
+  font-size: 1.5rem;
+  padding: .4em .75em .3em;
+  border-radius: 8px;
+  color: #fff;
+}
+
+.big-primary {
+  background-color: #000;
+}
+
+.big-subtle {
+  background-color: #ccc;
+}
+
+.big-ghost {
+  border-style: solid;
+  color: #000;
+}
+
+.big-warning {
+  background-color: #f33;
+}
+
+.big:hover {
+  text-decoration: none;
+}
+
+.big-subtle:hover {
+  background-color: #666;
+  text-decoration: none;
+}
+
+.big-ghost:hover {
+  background-color: #666;
+  text-decoration: none;
+  border-color: #666;
+}
+
+.big-warning:hover {
+  background-color: #933;
+  text-decoration: none;
+}
