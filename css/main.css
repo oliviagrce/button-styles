@@ -17,6 +17,7 @@ div {
   display: inline-block;
   font-size: 1.125rem;
   padding: .4em .75em .3em;
+  border-style: hidden;
   border-radius: 8px;
   border-width: 3px;
   color: #fff;
@@ -32,7 +33,7 @@ div {
 
 .btn-ghost {
   border-style: solid;
-  color: #000;
+  color: #333;
 }
 
 .btn-warning {
@@ -72,6 +73,7 @@ div {
   text-decoration: none;
   display: inline-block;
   padding: .4em .75em .3em;
+  border-style: hidden;
   border-radius: 8px;
   border-width: 3px;
   font-size: .875rem;
@@ -88,7 +90,7 @@ div {
 
 .small-ghost {
   border-style: solid;
-  color: #000;
+  color: #333;
 }
 
 .small-warning {
@@ -129,6 +131,7 @@ div {
   text-decoration: none;
   display: inline-block;
   font-size: 1.5rem;
+  border-style: hidden;
   padding: .4em .75em .3em;
   border-radius: 8px;
   border-width: 3px;
@@ -145,7 +148,7 @@ div {
 
 .big-ghost {
   border-style: solid;
-  color: #000;
+  color: #333;
 }
 
 .big-warning {
