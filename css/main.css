@@ -17,6 +17,7 @@ div {
   display: inline-block;
   font-size: 1.125rem;
   padding: .55em .75em .5em;
+  border-style: none;
   border-radius: 8px;
   border-width: 3px;
   color: #fff;
@@ -72,6 +73,7 @@ div {
   text-decoration: none;
   display: inline-block;
   padding: .5em .75em .4em;
+  border-style: none;
   border-radius: 8px;
   border-width: 3px;
   font-size: .875rem;
@@ -129,7 +131,8 @@ div {
   text-decoration: none;
   display: inline-block;
   font-size: 1.5rem;
-  padding: .5em .75em;
+  padding: .55em .75em .4em;
+  border-style: none;
   border-radius: 8px;
   border-width: 3px;
   color: #fff;
