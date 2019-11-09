@@ -16,7 +16,7 @@ div {
   text-decoration: none;
   display: inline-block;
   font-size: 1.125rem;
-  padding: .55em .75em .45em;
+  padding: .55em .75em .4em;
   border-radius: 8px;
   border-width: 3px;
   color: #fff;
@@ -71,7 +71,7 @@ div {
 .small {
   text-decoration: none;
   display: inline-block;
-  padding: .55em .75em .45em;
+  padding: .5em .75em .4em;
   border-radius: 8px;
   border-width: 3px;
   font-size: .875rem;
